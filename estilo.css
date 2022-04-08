@@ -1,0 +1,32 @@
+body{
+
+    background-color: rgb(44, 15, 50);
+}
+h1,th,p,h2,h5{
+   color: #fff; 
+}
+p{
+    font-size: 50px;;
+}
+.texto{
+    font-size: 20px;
+}
+img{
+   align-content: center;
+}
+.container1{
+    background-color: #fff;
+}
+.titulo{
+    color: aqua;
+    text-decoration: underline;
+}
+.fin{
+    color: chartreuse;
+    font-size: 20px;
+    text-align: center;
+}
+.d{
+    color:chartreuse ;
+    text-decoration: overline;
+}
